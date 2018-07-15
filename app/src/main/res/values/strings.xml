@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mozo</string>
+    <string name="hello_world">test</string>
+    <string name="buttton">Button</string>
+    <string name="tab1">CALLS</string>
+    <string name="tab2">CHATS</string>
+    <string name="tab3">CONTACTS</string>
+</resources>
